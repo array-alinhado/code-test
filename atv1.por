@@ -14,6 +14,8 @@ programa {
     escreva("digite seu cpf:  ")
     leia(cpf)
     escreva("digite seu rg:  ")
+    leia(rg)
+
     //exibindo dados do seu usuario
     escreva("\nnome: " + nome)
     escreva("\nidade: " + idade)
